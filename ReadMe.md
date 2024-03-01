@@ -33,6 +33,8 @@ numpy 1.16.5
 - model.py: An efficient implementation which can be used when datasets are not too large. 
 - sparse_model.py: It is a sparse implementation of EGAE for large scale datasets, *e.g.,* PubMed. 
 
+wiki.mat data: https://github.com/GRAND-Lab/MGAE/blob/master/data/mgae_wiki.mat
+
 ## Citation
 
 ```
